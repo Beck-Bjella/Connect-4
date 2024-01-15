@@ -1,7 +1,7 @@
 # AP CSP Creative Task
 # Code related to the pygame GUI was inspired by 'https://github.com/KeithGalli/Connect4-Python'.
 # This project is a full game of Connect 4 against an AI agent.
-# You click on the GUI to  make your move and the agent will make its move.
+# You click on the GUI to make your move and the agent will make its move.
 
 # Imports
 import pygame
